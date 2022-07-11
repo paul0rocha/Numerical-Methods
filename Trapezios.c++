@@ -1,7 +1,3 @@
-//Daniel Santos Souza RA: 200387
-//Gabriel Lucas Pinheiro de Arruda RA: 200840
-
-
 #include<stdio.h>
 #include<math.h>
 #include<stdlib.h>
