@@ -1,6 +1,3 @@
-//DANIEL SANTOS SOUZA RA:200387 
-//GABRIEL LUCAS PINHEIRO DE ARRUDA RA:200840
-
 #include<stdio.h>
 #include<stdlib.h>
 #include <ctype.h>
